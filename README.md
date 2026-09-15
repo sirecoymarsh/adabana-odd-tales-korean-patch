@@ -1,3 +1,6 @@
+
+<img width="1134" height="324" alt="download" src="https://github.com/user-attachments/assets/3404f9c6-ba3c-4449-bcc3-bf36f79adcf3" />
+
 # 도화이담 — 헛된 꽃의 기이한 이야기
 
 『Adabana Odd Tales / 徒花異譚』 비공식 한국어 패치 **1.0**입니다.
@@ -25,8 +28,9 @@
 - 한국어 문장 줄바꿈 보정
 - 정식판 모드: F7 선택지 플로우 차트, 선택지 색깔, CG·음악·서책 감상 개방 및 복원
 - 패처의 시놉시스·등장인물·도화 뜻·모드 사용법 안내
+- 모드의 「전체 보기」와 콘텐츠 개방은 아직 읽지 않은 장면과 결말을 드러낼 수 있습니다.
+- 체험판에는 모드가 포함되어 있지 않습니다.<img width="1134" height="324" alt="download" src="https://github.com/user-attachments/assets/cc12d4f2-fe0b-487f-8ed5-9c4800140d1e" />
 
-체험판에는 모드가 포함되지 않습니다. 모드의 「전체 보기」와 콘텐츠 개방은 아직 읽지 않은 장면과 결말을 드러낼 수 있습니다.
 
 ## 검사와 제거
 
